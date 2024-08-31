@@ -20,4 +20,6 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Mini Tales"
+
 include(":app")
+include(":theme")
